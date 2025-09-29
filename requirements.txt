@@ -1,5 +1,7 @@
 Python  
-Pandas, NumPy  
-Scikit-learn  
-Matplotlib, Seaborn  
+NumPy 
+Pandas 
+Matplotlib 
+Seaborn  
 XGBoost 
+Scikit-learn  
